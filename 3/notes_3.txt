@@ -1,0 +1,6 @@
+#FP:
+The main blocks of our program consist of functions, which are created dynamically and are stored in variables or collections.”
+
+#Higher Order Functions:
+A function which can get a few parameters as an input or it can return one or more functions as an output
+
